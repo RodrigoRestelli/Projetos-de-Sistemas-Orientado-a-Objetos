@@ -198,4 +198,4 @@ Frontend rodando em `http://localhost:5173`.
 | Aluno            | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 
-|__Rodrigo Restelli__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/pedroleite44) | [![](https://bit.ly/2P1ZogM)]() 
+|__Rodrigo Restelli__| *Developer Team* | [![](https://github.com/RodrigoRestelli) | [![](https://bit.ly/2P1ZogM)]() 
